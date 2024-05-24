@@ -1,0 +1,9 @@
+a=["A","B","D","C","E","F","G","H","I","J","K","L","M","N","O"]
+print(0)
+print(type(a))
+print(len(a))
+print(a[3])
+print(a[-2])
+print(a[2])
+print(a[4:6])
+print(a[:5])

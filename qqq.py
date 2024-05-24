@@ -1,0 +1,9 @@
+a=["A","B","C"]
+print(0)
+print(type(a))
+print(len(a))
+print(a[1])
+print(a[-1])
+print(a[0])
+print(a[1:2])
+print(a[:2])
